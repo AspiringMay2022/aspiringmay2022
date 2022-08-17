@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm May Joy Tumala</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="./hi1.gif">
+<img align="right" alt="Coding" padding-top="30px" width="400" src="./hi1.gif">
 
 - 🌱 I’m currently learning **Asynchronous JavaScript**
 
