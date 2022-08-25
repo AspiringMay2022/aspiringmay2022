@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 <img align="right" alt="Coding" padding-top="30px" width="400" src="./hi1.gif">
 
-- 🌱 I’m currently learning **Asynchronous JavaScript**
+- 🌱 I’m currently learning **API**
 
 - 👨‍💻 All of my projects are available at [https://62f594340d97e93b5f677ec9--aspiringmay2022portfolio.netlify.app/](https://62f594340d97e93b5f677ec9--aspiringmay2022portfolio.netlify.app/)
 
